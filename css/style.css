@@ -1,0 +1,18 @@
+body {
+    display: flex; flex-direction: column;
+    width: 100vw; height: 100vh;
+    background-color: #0e1114;
+    background-image: url(../images/stars.gif);
+    background-size: cover; background-position: center;
+    cursor: url(../sym107.ani), url(../sym107.png), auto !important;
+
+
+    font-family: "Comic Sans MS"; color: whitesmoke;
+    text-align: center;
+}
+
+a, input, textarea {cursor: url(../hol334.ani), url(../hol334.png), auto !important;}
+
+img { width: 50%; margin: auto; }
+
+a { color: #fff; } a:hover { color: hotpink; }
